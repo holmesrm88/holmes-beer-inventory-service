@@ -15,7 +15,7 @@ import java.util.UUID;
 @Slf4j
 @RequiredArgsConstructor
 @Component
-public class BeerInvntoryBootstrap implements CommandLineRunner {
+public class BeerInventoryBootstrap implements CommandLineRunner {
     public static final String BEER_1_UPC = "0373263858737";
     public static final String BEER_2_UPC = "0003746281247";
     public static final String BEER_3_UPC = "0016734700245";
